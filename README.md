@@ -10,8 +10,8 @@ const useTomy = () => ({
     `I love mobile apps, especially developing with React Native + Expo.`
   ],
   contact: {
-    email: 'pbr1111@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/pol-bonastre-romera-b685325a/',
+    email: 'tomini18@hotmail.com',
+    linkedin: 'https://www.linkedin.com/in/tomas-teston/',
     github: window.location.href
   },
   technologies: {
