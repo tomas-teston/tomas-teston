@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi 👋, I'm Tomás
 
-<!--
-**tomas-teston/tomas-teston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've created a hook-like function with my personal information so that you can get to know me better 😋
 
-Here are some ideas to get you started:
+```ts
+const useTomy = () => ({
+  aboutMe: [
+    `I'm a full stack software engineer`,
+    `I'm in love with React so if I've a choice, I prefer to do frontend development`,
+    `I love mobile apps, especially developing with React Native + Expo.`
+  ],
+  contact: {
+    email: 'pbr1111@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/pol-bonastre-romera-b685325a/',
+    github: window.location.href
+  },
+  technologies: {
+    currentStack: [
+      'React ❤',
+      'React Native / Expo ❤',
+      'TypeScript',
+      '.NET',
+      'Azure',
+      'Git',
+      'Docker',
+      'Azure DevOps',
+      'Github', 
+      'SQL Server'
+    ],
+    other: [
+      'Next.js',
+      'Astro js'
+      'Angular',
+      'Kubernetes',
+      'etc...'
+    ]
+  }
+});
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export { useTomy };
+```
+
+### Find me at
+
+[![Email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomini18@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-teston/)
